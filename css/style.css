@@ -1,0 +1,34 @@
+h1{
+    background-color:black;
+    color: white;
+    text-align: center;
+}
+
+h2{
+    color: green;
+}
+
+#Me{
+    float:left;
+}
+
+
+#Para{
+    float:left;
+    margin-top:60px;
+    margin-left:20px;
+    margin-right:20px;
+    color:green;
+}
+
+#Contact{
+    float:left;
+}
+
+a{
+    color: red;
+}
+
+UL{
+    color:green;
+}
